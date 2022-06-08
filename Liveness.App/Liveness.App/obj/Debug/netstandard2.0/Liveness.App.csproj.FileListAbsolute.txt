@@ -1,0 +1,16 @@
+C:\Users\ofosu\Documents\Projects\Liveness.App\Liveness.App\Liveness.App\bin\Debug\netstandard2.0\Liveness.App.deps.json
+C:\Users\ofosu\Documents\Projects\Liveness.App\Liveness.App\Liveness.App\bin\Debug\netstandard2.0\Liveness.App.dll
+C:\Users\ofosu\Documents\Projects\Liveness.App\Liveness.App\Liveness.App\bin\Debug\netstandard2.0\Liveness.App.pdb
+C:\Users\ofosu\Documents\Projects\Liveness.App\Liveness.App\Liveness.App\obj\Debug\netstandard2.0\Liveness.App.csproj.AssemblyReference.cache
+C:\Users\ofosu\Documents\Projects\Liveness.App\Liveness.App\Liveness.App\obj\Debug\netstandard2.0\Liveness.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofosu\Documents\Projects\Liveness.App\Liveness.App\Liveness.App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ofosu\Documents\Projects\Liveness.App\Liveness.App\Liveness.App\obj\Debug\netstandard2.0\ContentPageExample.xaml.g.cs
+C:\Users\ofosu\Documents\Projects\Liveness.App\Liveness.App\Liveness.App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ofosu\Documents\Projects\Liveness.App\Liveness.App\Liveness.App\obj\Debug\netstandard2.0\Liveness.App.AssemblyInfoInputs.cache
+C:\Users\ofosu\Documents\Projects\Liveness.App\Liveness.App\Liveness.App\obj\Debug\netstandard2.0\Liveness.App.AssemblyInfo.cs
+C:\Users\ofosu\Documents\Projects\Liveness.App\Liveness.App\Liveness.App\obj\Debug\netstandard2.0\Liveness.App.csproj.CoreCompileInputs.cache
+C:\Users\ofosu\Documents\Projects\Liveness.App\Liveness.App\Liveness.App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ofosu\Documents\Projects\Liveness.App\Liveness.App\Liveness.App\obj\Debug\netstandard2.0\Liveness.App.dll
+C:\Users\ofosu\Documents\Projects\Liveness.App\Liveness.App\Liveness.App\obj\Debug\netstandard2.0\refint\Liveness.App.dll
+C:\Users\ofosu\Documents\Projects\Liveness.App\Liveness.App\Liveness.App\obj\Debug\netstandard2.0\Liveness.App.pdb
+C:\Users\ofosu\Documents\Projects\Liveness.App\Liveness.App\Liveness.App\obj\Debug\netstandard2.0\ref\Liveness.App.dll

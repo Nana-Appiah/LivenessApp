@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Liveness.App.ContentPageExample">
+    <ContentPage.Content>
+        <StackLayout HeightRequest="1500">
+            
+            <Label Text="Label" FontSize="40" HorizontalOptions="Center" />
+            
+            <Label FontSize="20" HorizontalOptions="CenterAndExpand">
+                <Label.Text>
+                    This control is great for 
+                    displaying one or more 
+                    lines of text
+                </Label.Text>
+            </Label>
+            
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>
